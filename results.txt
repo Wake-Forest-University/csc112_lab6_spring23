@@ -1,0 +1,26 @@
+Enter image and text file names  -> fine1.jpg file1_soln.txt
+JPEG size: 500x500
+ASCII size: 100x100
+'#':1441 'l':1171 ':':2834 '.':3404 ' ':1150 
+
+Enter image and text file names  -> fine1_large.jpg fine1_large.txt
+JPEG size: 550x550
+ASCII size: 100x100
+'#':1601 'l':912 ':':2638 '.':3443 ' ':1406 
+
+Enter image and text file names  -> fine1_small.jpg fine1_small.txt
+JPEG size: 100x98
+ASCII size: 98x100
+'#':1182 'l':1391 ':':2900 '.':3200 ' ':1127 
+
+Enter image and text file names  -> rrolled.jpg rrolled_soln.txt
+JPEG size: 600x600
+ASCII size: 100x100
+'#':3909 'l':1632 ':':2416 '.':969 ' ':1074 
+
+Enter image and text file names  -> astley.jpg astley_soln.txt
+JPEG size: 223x255
+ASCII size: 100x100
+'#':2835 'l':1877 ':':1840 '.':420 ' ':3028 
+
+
